@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorExample", "MediatorExample\MediatorExample.csproj", "{0634167F-FD7A-4ABC-9A3B-C654EFE1E0DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elastic.DBSetUp", "Elastic.DBSetUp\Elastic.DBSetUp.csproj", "{29253AE5-E20A-4144-A31B-600C7A13CEAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticAPI", "ElasticAPI\ElasticAPI.csproj", "{4D56BFAB-FCC8-4AD5-8C25-4DBB487DA44D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{0634167F-FD7A-4ABC-9A3B-C654EFE1E0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0634167F-FD7A-4ABC-9A3B-C654EFE1E0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0634167F-FD7A-4ABC-9A3B-C654EFE1E0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29253AE5-E20A-4144-A31B-600C7A13CEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29253AE5-E20A-4144-A31B-600C7A13CEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29253AE5-E20A-4144-A31B-600C7A13CEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29253AE5-E20A-4144-A31B-600C7A13CEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D56BFAB-FCC8-4AD5-8C25-4DBB487DA44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D56BFAB-FCC8-4AD5-8C25-4DBB487DA44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D56BFAB-FCC8-4AD5-8C25-4DBB487DA44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D56BFAB-FCC8-4AD5-8C25-4DBB487DA44D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
