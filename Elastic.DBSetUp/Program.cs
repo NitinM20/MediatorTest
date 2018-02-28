@@ -5,7 +5,7 @@ namespace Elastic.DBSetUp
     class Program
     {
         /// <summary>
-        /// FOundation comments
+        /// FOundation comments adsfasdf
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
