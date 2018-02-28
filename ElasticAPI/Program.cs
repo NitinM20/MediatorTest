@@ -12,6 +12,10 @@ namespace ElasticAPI
 {
     public class Program
     {
+        /// <summary>
+        /// comments
+        /// </summary>
+        /// <param name="args"></param>
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
